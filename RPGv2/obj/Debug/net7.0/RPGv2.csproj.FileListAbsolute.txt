@@ -1,0 +1,56 @@
+C:\Users\MY PC\Desktop\Files\C# Files\#5\RPGv2\bin\Debug\net7.0\RPGv2.exe
+C:\Users\MY PC\Desktop\Files\C# Files\#5\RPGv2\bin\Debug\net7.0\RPGv2.deps.json
+C:\Users\MY PC\Desktop\Files\C# Files\#5\RPGv2\bin\Debug\net7.0\RPGv2.runtimeconfig.json
+C:\Users\MY PC\Desktop\Files\C# Files\#5\RPGv2\bin\Debug\net7.0\RPGv2.dll
+C:\Users\MY PC\Desktop\Files\C# Files\#5\RPGv2\bin\Debug\net7.0\RPGv2.pdb
+C:\Users\MY PC\Desktop\Files\C# Files\#5\RPGv2\obj\Debug\net7.0\RPGv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY PC\Desktop\Files\C# Files\#5\RPGv2\obj\Debug\net7.0\RPGv2.AssemblyInfoInputs.cache
+C:\Users\MY PC\Desktop\Files\C# Files\#5\RPGv2\obj\Debug\net7.0\RPGv2.AssemblyInfo.cs
+C:\Users\MY PC\Desktop\Files\C# Files\#5\RPGv2\obj\Debug\net7.0\RPGv2.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Desktop\Files\C# Files\#5\RPGv2\obj\Debug\net7.0\RPGv2.dll
+C:\Users\MY PC\Desktop\Files\C# Files\#5\RPGv2\obj\Debug\net7.0\refint\RPGv2.dll
+C:\Users\MY PC\Desktop\Files\C# Files\#5\RPGv2\obj\Debug\net7.0\RPGv2.pdb
+C:\Users\MY PC\Desktop\Files\C# Files\#5\RPGv2\obj\Debug\net7.0\RPGv2.genruntimeconfig.cache
+C:\Users\MY PC\Desktop\Files\C# Files\#5\RPGv2\obj\Debug\net7.0\ref\RPGv2.dll
+C:\Users\MY PC\Desktop\Files\C# Files\#5 RPG V2\RPGv2\bin\Debug\net7.0\RPGv2.exe
+C:\Users\MY PC\Desktop\Files\C# Files\#5 RPG V2\RPGv2\bin\Debug\net7.0\RPGv2.deps.json
+C:\Users\MY PC\Desktop\Files\C# Files\#5 RPG V2\RPGv2\bin\Debug\net7.0\RPGv2.runtimeconfig.json
+C:\Users\MY PC\Desktop\Files\C# Files\#5 RPG V2\RPGv2\bin\Debug\net7.0\RPGv2.dll
+C:\Users\MY PC\Desktop\Files\C# Files\#5 RPG V2\RPGv2\bin\Debug\net7.0\RPGv2.pdb
+C:\Users\MY PC\Desktop\Files\C# Files\#5 RPG V2\RPGv2\obj\Debug\net7.0\RPGv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY PC\Desktop\Files\C# Files\#5 RPG V2\RPGv2\obj\Debug\net7.0\RPGv2.AssemblyInfoInputs.cache
+C:\Users\MY PC\Desktop\Files\C# Files\#5 RPG V2\RPGv2\obj\Debug\net7.0\RPGv2.AssemblyInfo.cs
+C:\Users\MY PC\Desktop\Files\C# Files\#5 RPG V2\RPGv2\obj\Debug\net7.0\RPGv2.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Desktop\Files\C# Files\#5 RPG V2\RPGv2\obj\Debug\net7.0\RPGv2.dll
+C:\Users\MY PC\Desktop\Files\C# Files\#5 RPG V2\RPGv2\obj\Debug\net7.0\refint\RPGv2.dll
+C:\Users\MY PC\Desktop\Files\C# Files\#5 RPG V2\RPGv2\obj\Debug\net7.0\RPGv2.pdb
+C:\Users\MY PC\Desktop\Files\C# Files\#5 RPG V2\RPGv2\obj\Debug\net7.0\RPGv2.genruntimeconfig.cache
+C:\Users\MY PC\Desktop\Files\C# Files\#5 RPG V2\RPGv2\obj\Debug\net7.0\ref\RPGv2.dll
+C:\Users\MY PC\Desktop\Stuff\C# Files\#5 RPG V2\RPGv2\bin\Debug\net7.0\RPGv2.exe
+C:\Users\MY PC\Desktop\Stuff\C# Files\#5 RPG V2\RPGv2\bin\Debug\net7.0\RPGv2.deps.json
+C:\Users\MY PC\Desktop\Stuff\C# Files\#5 RPG V2\RPGv2\bin\Debug\net7.0\RPGv2.runtimeconfig.json
+C:\Users\MY PC\Desktop\Stuff\C# Files\#5 RPG V2\RPGv2\bin\Debug\net7.0\RPGv2.dll
+C:\Users\MY PC\Desktop\Stuff\C# Files\#5 RPG V2\RPGv2\bin\Debug\net7.0\RPGv2.pdb
+C:\Users\MY PC\Desktop\Stuff\C# Files\#5 RPG V2\RPGv2\obj\Debug\net7.0\RPGv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY PC\Desktop\Stuff\C# Files\#5 RPG V2\RPGv2\obj\Debug\net7.0\RPGv2.AssemblyInfoInputs.cache
+C:\Users\MY PC\Desktop\Stuff\C# Files\#5 RPG V2\RPGv2\obj\Debug\net7.0\RPGv2.AssemblyInfo.cs
+C:\Users\MY PC\Desktop\Stuff\C# Files\#5 RPG V2\RPGv2\obj\Debug\net7.0\RPGv2.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Desktop\Stuff\C# Files\#5 RPG V2\RPGv2\obj\Debug\net7.0\RPGv2.dll
+C:\Users\MY PC\Desktop\Stuff\C# Files\#5 RPG V2\RPGv2\obj\Debug\net7.0\refint\RPGv2.dll
+C:\Users\MY PC\Desktop\Stuff\C# Files\#5 RPG V2\RPGv2\obj\Debug\net7.0\RPGv2.pdb
+C:\Users\MY PC\Desktop\Stuff\C# Files\#5 RPG V2\RPGv2\obj\Debug\net7.0\RPGv2.genruntimeconfig.cache
+C:\Users\MY PC\Desktop\Stuff\C# Files\#5 RPG V2\RPGv2\obj\Debug\net7.0\ref\RPGv2.dll
+C:\Users\MY PC\Desktop\Stuff\C#\#5RPGV2\RPGv2\bin\Debug\net7.0\RPGv2.exe
+C:\Users\MY PC\Desktop\Stuff\C#\#5RPGV2\RPGv2\bin\Debug\net7.0\RPGv2.deps.json
+C:\Users\MY PC\Desktop\Stuff\C#\#5RPGV2\RPGv2\bin\Debug\net7.0\RPGv2.runtimeconfig.json
+C:\Users\MY PC\Desktop\Stuff\C#\#5RPGV2\RPGv2\bin\Debug\net7.0\RPGv2.dll
+C:\Users\MY PC\Desktop\Stuff\C#\#5RPGV2\RPGv2\bin\Debug\net7.0\RPGv2.pdb
+C:\Users\MY PC\Desktop\Stuff\C#\#5RPGV2\RPGv2\obj\Debug\net7.0\RPGv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY PC\Desktop\Stuff\C#\#5RPGV2\RPGv2\obj\Debug\net7.0\RPGv2.AssemblyInfoInputs.cache
+C:\Users\MY PC\Desktop\Stuff\C#\#5RPGV2\RPGv2\obj\Debug\net7.0\RPGv2.AssemblyInfo.cs
+C:\Users\MY PC\Desktop\Stuff\C#\#5RPGV2\RPGv2\obj\Debug\net7.0\RPGv2.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Desktop\Stuff\C#\#5RPGV2\RPGv2\obj\Debug\net7.0\RPGv2.dll
+C:\Users\MY PC\Desktop\Stuff\C#\#5RPGV2\RPGv2\obj\Debug\net7.0\refint\RPGv2.dll
+C:\Users\MY PC\Desktop\Stuff\C#\#5RPGV2\RPGv2\obj\Debug\net7.0\RPGv2.pdb
+C:\Users\MY PC\Desktop\Stuff\C#\#5RPGV2\RPGv2\obj\Debug\net7.0\RPGv2.genruntimeconfig.cache
+C:\Users\MY PC\Desktop\Stuff\C#\#5RPGV2\RPGv2\obj\Debug\net7.0\ref\RPGv2.dll
